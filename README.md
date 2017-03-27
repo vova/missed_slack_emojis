@@ -5,6 +5,9 @@ The missed emoji icon set for Slack
 * https://slackmojis.com/
 * https://github.com/jkloo/slack-emojis
 
+## GitLab emoji for Slack (and telegram)
+* https://gitlabfan.com/gitlab-stickers-for-telegram-and-slack-16639b2c126
+
 ## How developers use Slack
 * https://www.slideshare.net/andrzejkrzywda/slack-protips-from-arkency
 * http://blog.arkency.com/2015/10/slack-driven-blogposts/
